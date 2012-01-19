@@ -9,11 +9,11 @@ var:
   tags_path : /tags.html
   rss_path: /atom.xml
 
-production_url : http://username.github.com # or your custom domain name
-title : Jekyll Boostrap
+production_url : http://liuhang0077.github.com # or your custom domain name
+title : Hang
 
 author :
-  name : 行的博客
+  name : Hang
   email : liuhang0077@gmail.com
   github : liuhang0077
   twitter : hangzai

@@ -13,8 +13,4 @@ header: Hang
 
 ---
 ###最近发布的文章
-<ul>
-  {% assign pages_list = site.pages %}
-  {% assign group = 'project' %}
-  {% include helpers/pages_list.html %}
-</ul>
+{ post.date | date: "%B %e, %Y" }} [{{ post.title }}]({{ post.url }})

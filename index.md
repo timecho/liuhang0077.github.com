@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hang is…
+title: Hang
 header: Hang
 ---
 

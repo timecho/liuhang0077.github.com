@@ -9,12 +9,10 @@ header: Hang
 事实证明每次快过年的时候就闹心！~~
 嗯，，这个不该是介绍页面么。。 妈的！
 
+
+
+---
 ###最近发布的文章
----
-layout: default
-title: A Nice Title
-group: project
----
 <ul>
   {% assign pages_list = site.pages %}
   {% assign group = 'project' %}

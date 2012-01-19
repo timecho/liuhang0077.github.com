@@ -13,10 +13,10 @@ production_url : http://username.github.com # or your custom domain name
 title : Jekyll Boostrap
 
 author :
-  name : Name Lastname
-  email : blah@email.test
-  github : username
-  twitter : username
+  name : 行的博客
+  email : liuhang0077@gmail.com
+  github : liuhang0077
+  twitter : hangzai
   feedbuder : feedname
 
 exclude: .rbenv-version

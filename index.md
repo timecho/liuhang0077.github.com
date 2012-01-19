@@ -10,6 +10,13 @@ header: Hang
 嗯，，这个不该是介绍页面么。。 妈的！
 
 ###最近发布的文章
+---
 layout: default
 title: A Nice Title
 group: project
+---
+<ul>
+  {% assign pages_list = site.pages %}
+  {% assign group = 'project' %}
+  {% include helpers/pages_list.html %}
+</ul>

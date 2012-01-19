@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hello from Jekyll-Bootstrap
+title: Hang is…
 header: Hang
 ---
 

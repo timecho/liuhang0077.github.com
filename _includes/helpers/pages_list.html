@@ -29,7 +29,11 @@ Usage:
   	{% else %}
   	<li><a href="{{node.url}}">{{node.title}}</a></li>
   	{% endif %}
-    <!--pinglun-->
+    
+ 
+  {% endif %}
+{% endfor %}
+<!--pinglun-->
     <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -45,9 +49,6 @@ Usage:
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
 <a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
 <!--jie shu-->
- 
-  {% endif %}
-{% endfor %}
 
 {% assign pages_list = null %}
 {% assign group = null %}

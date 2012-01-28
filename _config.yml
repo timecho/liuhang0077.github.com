@@ -9,7 +9,7 @@ var:
   tags_path : /tags.html
   rss_path: /atom.xml
 
-production_url : http://liuhang0077.github.com # or your custom domain name
+production_url : http://blog.teidihen.com/ # or your custom domain name
 title : Hang
 
 author :
